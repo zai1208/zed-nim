@@ -1,0 +1,11 @@
+id = "nim"
+name = "Nim"
+description = "Nim language support for Zed"
+version = "0.0.4"
+schema_version = 1
+authors = ["Zai1208 <zai1208@outlook.com>"]
+repository = "https://github.com/zai1208/zed-nim"
+
+[grammars.nim]
+repository = "https://github.com/alaviss/tree-sitter-nim/"
+commit = "897e5d346f0b59ed62b517cfb0f1a845ad8f0ab7"
